@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "Vezbe04/res/lib.jar"
+  ]
+}
